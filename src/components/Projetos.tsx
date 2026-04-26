@@ -18,7 +18,7 @@ export default function Projetos({idioma}: HeaderProps)  {
             descricao_en: "Native mobile app for exploring places of interest. Final-year undergraduate project focusing on geolocation.",
             tech: ["Kotlin", "SQLite", "Google Maps API", "Git"],
             link: "https://github.com/RicardoAFM2/HiddenCity",
-            imagem: "/HiddenCity.png"
+            imagem: "/HiddenCity.jpg"
         }
         
     ];
