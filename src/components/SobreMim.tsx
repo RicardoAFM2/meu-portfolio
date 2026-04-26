@@ -7,7 +7,7 @@ export default function SobreMim({idioma}: HeaderProps) {
         <section id="sobre" className="py-20">
             <div className="max-w-6xl mx-auto px-6">
 
-                <h2 className="ext-3xl md:text-4xl font-bold text-slate-100 mb-12 flex items-center gap-4">
+                <h2 className="text-3xl md:text-4xl font-bold text-slate-100 mb-12 flex items-center gap-4">
                     {idioma === 'pt' ? 'Sobre Mim' : 'About Me'}
                     <div className="h-px bg-slate-700 flex-1 ml-4"></div>
                 </h2>

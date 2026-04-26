@@ -54,7 +54,7 @@ export default function Projetos({idioma}: HeaderProps)  {
 
                                 <a
                                     href={proj.link}
-                                    target="_black"
+                                    target="_blank"
                                     rel="noopener noreferrer"
                                     className="inline-flex items-center gap-2 text-slate-100 hover:text-emerald-400 font-medium transition-colors"
                                 >
