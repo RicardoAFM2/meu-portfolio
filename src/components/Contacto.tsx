@@ -5,7 +5,7 @@ interface HeaderProps {
 
 export default function Contacto({idioma}: HeaderProps) {
     return (
-        <section id="contaco" className="py-20 bg-slate-900">
+        <section id="contacto" className="py-20 bg-slate-900">
             <div className="max-w-4xl mx-auto px-6 text-center">
 
                 <h2 className="text-4xl md:text-5xl font-bold text-slate-100 mb-6">
